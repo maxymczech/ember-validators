@@ -5,7 +5,7 @@ import requireModule from 'ember-require-module';
 import collection from './collection';
 import confirmation from './confirmation';
 import date from './date';
-import dsError from './dsError';
+import dsError from './ds-error';
 import exclusion from './exclusion';
 import format from './format';
 import inclusion from './inclusion';
