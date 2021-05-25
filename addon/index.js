@@ -19,7 +19,7 @@ export function validate(type, ...args) {
     collection,
     confirmation,
     date,
-    dsError,
+    'ds-error': dsError,
     exclusion,
     format,
     inclusion,
